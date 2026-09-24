@@ -12,7 +12,7 @@ A simple script for Adobe Illustrator with UI bilingual panel (English/Hebrew) b
 * **100% Vector:** Outputs pure, scalable vector paths directly in Illustrator.
 
 ## Installation
-1. Download the latest `.zip` file from the Releases page https://github.com/talnadav74/Ai-Script-QR2Vector/releases/tag/v1.0.0.            
+1. Download the latest `.zip` file from the [Releases page](https://github.com/talnadav74/Ai-Script-QR2Vector/releases/latest).
 2. Extract the downloaded file.
 3. Place the `.jsx` files in your Illustrator Scripts folder:
    * **Mac:** `Applications/Adobe Illustrator [Year]/Presets/en_US/Scripts`
