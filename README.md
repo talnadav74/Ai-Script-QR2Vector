@@ -12,7 +12,7 @@ A simple script for Adobe Illustrator with UI bilingual panel (English/Hebrew) b
 * **100% Vector:** Outputs pure, scalable vector paths directly in Illustrator.
 
 ## Installation
-1. Download the latest `.zip` file from the [Releases](../../releases) page.
+1. Download the latest `.zip` file from the Releases page [Releases](../../ releases) page.            
 2. Extract the downloaded file.
 3. Place the `.jsx` files in your Illustrator Scripts folder:
    * **Mac:** `Applications/Adobe Illustrator [Year]/Presets/en_US/Scripts`
@@ -28,4 +28,5 @@ A simple script for Adobe Illustrator with UI bilingual panel (English/Hebrew) b
 
 ## About
 Created by Tal Nadav (Designer | Synth enthusiast).
-Feel free to connect or follow my work on [Gumroad]([Your Gumroad Link - Optional]).
+Have a question, feedback, or need a custom workflow solution? Let's connect:
+* **Email:** tal74design@gmail.com
