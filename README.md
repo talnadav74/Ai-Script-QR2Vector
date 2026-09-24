@@ -1,11 +1,11 @@
-# Illustrator QR Code to Vector Generator
+#QR-Code Vector Generator
 
-A lightweight, bilingual (English/Hebrew) Adobe Illustrator script by Tal Nadav that instantly generates vector QR codes directly on your artboard. No external plugins, no premium subscriptions, just clean vector paths ready for print or digital use.
+A simple script for Adobe Illustrator with UI bilingual panel (English/Hebrew) by Tal Nadav that instantly generates vector QR codes directly on your artboard. No external plugins, no premium subscriptions, just clean vector paths ready for print or digital use.
 
 <img width="414" height="442" alt="tal_QR2Vector_EN" src="https://github.com/user-attachments/assets/fd6c18bb-9b81-42cb-967a-1b5f4ebe914f" /><img width="414" height="459" alt="tal_QR2Vector_heb" src="https://github.com/user-attachments/assets/6b25e774-fafa-4d6b-bc52-cb754dbde180" />
 
 ## Features
-* **Bilingual UI:** Choose between English (`QR2Vector-EN.jsx`) or Hebrew (`QR2Vector-HE.jsx`) interfaces.
+* **Bilingual UI:** Choose between English (`QR2Vector-EN.jsx`) or Hebrew (`QR2Vector-HE.jsx`) script's interfaces.
 * **Size Control:** Select between Small, Medium, or Large output sizes.
 * **White Background:** Option to generate the QR code with a solid white background box for contrast.
 * **Logo Space:** Option to generate a clean, empty circle in the center of the QR code, perfect for placing your brand's logo.
